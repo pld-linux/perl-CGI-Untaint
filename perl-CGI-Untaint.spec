@@ -10,8 +10,8 @@ Summary(pl):	CGI::Untaint - przetwarzanie parametrów wej¶ciowych CGI
 Name:		perl-CGI-Untaint
 Version:	1.00
 Release:	1
-# Same as Perl itself
-License:	GPL or Artistic
+# same as perl
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	02b38ef8bcdf1731ef7836503ea6f1da

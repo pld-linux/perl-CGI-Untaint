@@ -32,8 +32,6 @@ manner for validating and untainting the input from web forms.
 	INSTALLDIRS=vendor
 
 %{__make}
-#	OPTIMIZE="%{rpmcflags}"
-
 %{?with_tests:%{__make} test}
 
 %install

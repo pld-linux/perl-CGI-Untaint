@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	CGI
-%define	pnam	Untaint
+%define		pdir	CGI
+%define		pnam	Untaint
 Summary:	CGI::Untaint - process CGI input parameters
 Summary(pl):	CGI::Untaint - przetwarzanie parametrów wej¶ciowych CGI
 Name:		perl-CGI-Untaint

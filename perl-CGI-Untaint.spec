@@ -8,13 +8,13 @@
 Summary:	CGI::Untaint - process CGI input parameters
 Summary(pl):	CGI::Untaint - przetwarzanie parametrów wej¶ciowych CGI
 Name:		perl-CGI-Untaint
-Version:	1.25
-Release:	2
+Version:	1.26
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	f75b2641202e441a16db5040c37170c0
+# Source0-md5:	1ed11830476470d4895b632bf2222606
 BuildRequires:	perl-UNIVERSAL-require
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13

@@ -6,7 +6,7 @@
 %define		pdir	CGI
 %define		pnam	Untaint
 Summary:	CGI::Untaint - process CGI input parameters
-Summary(pl):	CGI::Untaint - przetwarzanie parametrÛw wej∂ciowych CGI
+Summary(pl.UTF-8):   CGI::Untaint - przetwarzanie parametr√≥w wej≈õciowych CGI
 Name:		perl-CGI-Untaint
 Version:	1.26
 Release:	1
@@ -25,9 +25,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 This module provides a simple, convenient, abstracted and extensible
 manner for validating and untainting the input from web forms.
 
-%description -l pl
-Ten modu≥ udostÍpnia prosty, wygodny, abstrakcyjny i rozszerzalny
-sposÛb na sprawdzanie poprawno∂ci i odkaøanie wej∂cia z formularzy
+%description -l pl.UTF-8
+Ten modu≈Ç udostƒôpnia prosty, wygodny, abstrakcyjny i rozszerzalny
+spos√≥b na sprawdzanie poprawno≈õci i odka≈ºanie wej≈õcia z formularzy
 WWW.
 
 %prep

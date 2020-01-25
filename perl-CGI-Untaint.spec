@@ -4,7 +4,6 @@
 
 %define		pdir	CGI
 %define		pnam	Untaint
-%include	/usr/lib/rpm/macros.perl
 Summary:	CGI::Untaint - process CGI input parameters
 Summary(pl.UTF-8):	CGI::Untaint - przetwarzanie parametrów wejściowych CGI
 Name:		perl-CGI-Untaint
